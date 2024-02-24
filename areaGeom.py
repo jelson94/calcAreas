@@ -1,4 +1,7 @@
 #testandoooooo 
 
-b = 4
-a = 4 + b 
+def areaRet(ladoA, ladoB):
+
+    area = ladoA + ladoB
+
+    return area
