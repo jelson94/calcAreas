@@ -24,3 +24,5 @@ def areaTrap(baseMaior, baseMenor, altura):
 
 
     return area
+
+print("Ola!")
