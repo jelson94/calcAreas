@@ -11,3 +11,9 @@ def areaCir(diâmetro):
 
     area = pi * (diâmetro ** 2) / 4
     return area
+
+def areaTrian(base, altura):
+
+    area = base * altura / 2
+
+    return area
