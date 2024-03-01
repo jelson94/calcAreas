@@ -17,3 +17,10 @@ def areaTrian(base, altura):
     area = base * altura / 2
 
     return area
+
+def areaTrap(baseMaior, baseMenor, altura):
+
+    area = ((baseMaior + baseMenor) * altura / 2)
+
+
+    return area
